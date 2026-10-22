@@ -1,3 +1,4 @@
 # college-demo
-This is my first repository
-Author - neha
+This is my first repository.
+<br>
+Author - NEHA
